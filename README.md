@@ -27,6 +27,15 @@ That context is useful until it becomes invisible debt:
 
 No API keys. No model calls. No cloud account. No telemetry.
 
+## Documentation
+
+| English | 简体中文 |
+| --- | --- |
+| [README](README.md) | [README.zh-CN](README.zh-CN.md) |
+| [Changelog](CHANGELOG.md) | [更新日志](CHANGELOG.zh-CN.md) |
+| [Contributing](CONTRIBUTING.md) | [贡献指南](CONTRIBUTING.zh-CN.md) |
+| [Security](SECURITY.md) | [安全说明](SECURITY.zh-CN.md) |
+
 ## 30 Second Demo
 
 ```bash

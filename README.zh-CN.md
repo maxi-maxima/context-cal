@@ -26,6 +26,15 @@
 
 不需要 API key。不调用模型。不需要云账号。不上传遥测。
 
+## 文档
+
+| 简体中文 | English |
+| --- | --- |
+| [README.zh-CN](README.zh-CN.md) | [README](README.md) |
+| [更新日志](CHANGELOG.zh-CN.md) | [Changelog](CHANGELOG.md) |
+| [贡献指南](CONTRIBUTING.zh-CN.md) | [Contributing](CONTRIBUTING.md) |
+| [安全说明](SECURITY.zh-CN.md) | [Security](SECURITY.md) |
+
 ## 30 秒演示
 
 ```bash
